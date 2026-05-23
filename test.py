@@ -1,3 +1,3 @@
 password = "admin123"
 
-eval(input("Enter command: "))
+eval(input("Enter com "))
