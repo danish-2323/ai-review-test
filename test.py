@@ -1,1 +1,3 @@
-print("hello ai reviewer") 
+password = "admin123"
+
+eval(input("cmd: "))
